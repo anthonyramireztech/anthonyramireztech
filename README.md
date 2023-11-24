@@ -1,30 +1,26 @@
-- Hi, I'm Anthony!
+<h1>Hi, I'm Anthony! <br/><a  <a href="https://www.linkedin.com/in/anthony-ramirez-cyber-security-professional/">Cybersecurity Professional</a></h1>
 
-[Cybersecurity Professional](https://www.linkedin.com/in/anthony-ramirez-cyber-security-professional/)
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
-👨‍💻 Cybersecurity Projects:
-
-Vulnerability scanning and remediation (Tenable Nessus):
-https://github.com/anthonyramireztech/Portfolio/blob/main/Vulnerability%20scanning%20and%20remediation%20(Tenable%20Nessus)
+- <b>Vulnerability scanning and remediation (Tenable Nessus): [https://github.com/anthonyramireztech/Portfolio/blob/main/Vulnerability%20scanning%20and%20remediation%20(Tenable%20Nessus)]<a href="https://github.com/anthonyramireztech/Portfolio/blob/main/Vulnerability%20scanning%20and%20remediation%20(Tenable%20Nessus)">Visual Attack Map</a></b>
 
 
-📺 Certifications
+<h2>📺 Certifications</h2>
 
-CompTIA Security+
+- <b>CompTIA Security+</b>
 
-🏫  Education
-
-Bachelor's Degree in Cyber Operations and Resilience from Boise State University
-
-Associate's Degree in Information Technology from The College of Western Idaho
-
-
-Hobbies
+<h2>Hobbies</h2>
 
 - Gaming
-- Cybersecurity (my passion!)
 - Gym
+- Cybersecurity (It's my passion!)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/anthony-ramirez-cyber-security-professional/
 
 <!---
 anthonyramireztech/anthonyramireztech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
