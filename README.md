@@ -6,7 +6,7 @@
 👨‍💻 Cybersecurity Projects:
 
 Vulnerability scanning and remediation (Tenable Nessus):
-[https://github.com/anthonyramireztech/Portfolio/blob/main/Vulnerability%20scanning%20and%20remediation%20(Tenable%20Nessus)]
+https://github.com/anthonyramireztech/Portfolio/blob/main/Vulnerability%20scanning%20and%20remediation%20(Tenable%20Nessus)
 
 
 📺 Certifications
