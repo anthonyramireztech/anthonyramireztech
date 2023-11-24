@@ -9,6 +9,11 @@
 
 - <b>CompTIA Security+</b>
 
+<h2>🏫 Education</h2>
+
+- <b>Boise State University//Bachelor's Degree: Cyber Operations and Resilience</b>
+- <b>College of Western Idaho//Associate's Degree: Information Technology (IT) </b>
+
 <h2>Hobbies</h2>
 
 - Gaming
