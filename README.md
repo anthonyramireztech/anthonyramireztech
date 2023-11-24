@@ -14,6 +14,7 @@ Vulnerability scanning and remediation (Tenable Nessus):
 CompTIA Security+
 
 🏫  Education
+
 Bachelor's Degree in Cyber Operations and Resilience from Boise State University
 
 Associate's Degree in Information Technology from The College of Western Idaho
