@@ -6,6 +6,8 @@
 
 - <b>Network Analysis - Web Shell "https://github.com/anthonyramireztech/Network-Analysis-Web-Shell"</b>
 
+- <b>Phishing Analysis "https://github.com/anthonyramireztech/Phishing-Analysis/blob/main/README.md"</b>
+
 <h2>📺 Certifications</h2>
 
 - <b>CompTIA Security+</b>
