@@ -12,7 +12,7 @@
 
 - <b>CompTIA Security+</b>
 
-- <b>CompTIA CySA+ (expected 12/30/21)</b>
+- <b>CompTIA CySA+ (expected 12/30/23)</b>
 
 <h2>🏫 Education</h2>
 
