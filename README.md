@@ -12,6 +12,8 @@
 
 - <b>CompTIA Security+</b>
 
+- <b>CompTIA CySA+ (expected 12/30/21)</b>
+
 <h2>🏫 Education</h2>
 
 - <b>Boise State University//Bachelor's Degree: Cyber Operations and Resilience</b>
