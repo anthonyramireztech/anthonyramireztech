@@ -23,6 +23,7 @@
 
 - Gaming
 - Gym
+- Eating!!
 - Cybersecurity (It's my passion!)
 
 <h2> 🤳 Connect with me:</h2>
