@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulnerability scanning and remediation (Tenable Nessus): [https://github.com/anthonyramireztech/Vunerability-Scan-and-Remediation-Tenable-Nessus-/blob/main/README.md]<a href="https://github.com/anthonyramireztech/Vunerability-Scan-and-Remediation-Tenable-Nessus-/blob/main/README.md">
+- <b>Microsoft Azure Lab (*In Progress*): ="https://github.com/anthonyramireztech/Microsoft-Azure-Lab/blob/main/README.md"
+  
+- <b>Vulnerability scanning and remediation (*Tenable Nessus*): [https://github.com/anthonyramireztech/Vunerability-Scan-and-Remediation-Tenable-Nessus-/blob/main/README.md]<a href="https://github.com/anthonyramireztech/Vunerability-Scan-and-Remediation-Tenable-Nessus-/blob/main/README.md">"
 
 - <b>Network Analysis - Web Shell "https://github.com/anthonyramireztech/Network-Analysis-Web-Shell"</b>
 
