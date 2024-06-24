@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a  <a href="https://www.linkedin.com/in/anthony-ramirez-cyber-security-professional/">Cybersecurity and IT Professional</a></h1>
+<h1>Hi, I'm Anthony! <br/><a  <a href="https://www.linkedin.com/in/anthony-ramirez-cyber-security-professional/">Networking engineer/cybersecurity/IT Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
